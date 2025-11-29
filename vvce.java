@@ -1,4 +1,4 @@
-public class test
+public class vvce
 {
   public static void main(String[] args)
   {
